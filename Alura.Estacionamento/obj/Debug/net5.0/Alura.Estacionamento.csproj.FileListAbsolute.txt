@@ -48,3 +48,19 @@ C:\Users\andre\OneDrive\Documentos\Projetos\Alura.Estacionamento - Final\Alura.E
 C:\Users\andre\OneDrive\Documentos\Projetos\Alura.Estacionamento - Final\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.genruntimeconfig.cache
 =======
 >>>>>>> 866c2a6a6928143c61508c9e0f2500c5a4c796bd
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.exe
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.deps.json
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.runtimeconfig.json
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.runtimeconfig.dev.json
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.dll
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.pdb
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.csproj.AssemblyReference.cache
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.AssemblyInfoInputs.cache
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.AssemblyInfo.cs
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.csproj.CoreCompileInputs.cache
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.dll
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\refint\Alura.Estacionamento.dll
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.pdb
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.genruntimeconfig.cache
+D:\Estudos\Teste\alura.estacionamento\Alura.Estacionamento\obj\Debug\net5.0\ref\Alura.Estacionamento.dll
